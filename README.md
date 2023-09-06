@@ -1,15 +1,16 @@
-<h1 style="color:blue">E-Commerce Website</h1>
+<h1 style="color:blue">WEBSITE Tìm và đăng thuê phòng</h1>
 <h3>Front End</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/index.png" />
+<img src="./Website Find and rent a room - Project/assets/images/1.png" />
 
 <h3>Back End</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/backend.png" />
+<img src="./Website Find and rent a room - Project/assets/images/2.png" />
 
 <h3>Database Tables</h3>
 
-<img src="./Website Find and rent a room - Project/assets/images/databaseimg.png" />
+<img src="./Website Find and rent a room - Project/assets/images/3.png" />
+<img src="./Website Find and rent a room - Project/assets/images/4.png" />
 
 <h2 style="color:cyan">Installation</h2>
 <ul>
